@@ -13,6 +13,8 @@ Korean Sign Language Dataset
 # Format
 - RGB, Optical FLow datasets
 RGB : 255 * 255
-Optical flow : x, y, magnitude (3 channel) from "High accuracy optical flow estimation based on a theory for warping." Computer
+
+Optical flow : x, y, magnitude (3 channel) from "High accuracy optical flow estimation based on a theory for warping."
 
 - RGB train/val/test and Optical FLow train/val/test file
+Videoname, a number of frame, class label, class name
