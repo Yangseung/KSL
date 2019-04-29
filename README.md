@@ -12,6 +12,7 @@ Korean Sign Language Dataset
 
 # Format
 - RGB, Optical FLow datasets
+
 RGB : 255 * 255
 
 Optical flow : x, y, magnitude (3 channel) from "High accuracy optical flow estimation based on a theory for warping."
