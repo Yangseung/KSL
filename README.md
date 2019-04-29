@@ -5,17 +5,13 @@ Korean Sign Language Dataset
 RGB
 
 train
-
 val
-
 test
 
 Optical Flow
 
 train
-
 val
-
 test
 
 Video
