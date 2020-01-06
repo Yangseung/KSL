@@ -17,11 +17,12 @@ RGB : 255 * 255
 
 Optical flow : x, y, magnitude (3 channel) from "High accuracy optical flow estimation based on a theory for warping."
 
-- RGB train/val/test and Optical FLow train/val/test file
+- RGB train/val/test and Optical flow train/val/test file
 
 Videoname, a number of frame, class label, class name
 
-# TSN
+# Networks
+- TSN
 BN inception
 consensus type: average
 segments: 7
@@ -29,13 +30,13 @@ batch size: 8
 dropout rate: 0.7
 lr: 0.001
 
-# I3D
+- I3D
 Inception-v1
 input frames: 32
 batch size: 8
 lr: 0.001
 
-# LRCN
+- LRCN
 Vggnet+LSTM
 input frames: 16
 batch size: 48
