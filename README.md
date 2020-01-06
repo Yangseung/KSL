@@ -23,21 +23,36 @@ Videoname, a number of frame, class label, class name
 
 # Networks
 - TSN
+
 BN inception
+
 consensus type: average
+
 segments: 7
+
 batch size: 8
+
 dropout rate: 0.7
+
 lr: 0.001
 
 - I3D
+
 Inception-v1
+
 input frames: 32
+
 batch size: 8
+
 lr: 0.001
 
 - LRCN
+
 Vggnet+LSTM
+
 input frames: 16
+
 batch size: 48
+
 lr: 0.001
+
