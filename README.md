@@ -9,6 +9,7 @@ The Korean Sign Language Dataset
 - [Optical Flow train/val/test]
 
 - [Video](http://www.dropbox.com/s/8wse0lmxngysl2h/video.zip?dl=0)
+- [Label](https://drive.google.com/file/d/1nFF_VsilnJv1jyshtdUKtoX_kNbwCk3w/view?usp=sharing)
 
 # Format
 - RGB, Optical Flow datasets
