@@ -19,7 +19,6 @@ Optical flow : x, y, magnitude (3 channel) from "High accuracy optical flow esti
 
 - RGB train/val/test and Optical flow train/val/test file
 
-Videoname, a number of frame, class label, class name
 
 # Networks
 - TSN
@@ -57,4 +56,4 @@ batch size: 48
 lr: 0.001
 
 # Paper
--[The Korean Sign Language Dataset for Action Recognition](https://link.springer.com/content/pdf/10.1007%2F978-3-030-37731-1_43.pdf)
+- [The Korean Sign Language Dataset for Action Recognition](https://link.springer.com/content/pdf/10.1007%2F978-3-030-37731-1_43.pdf)
