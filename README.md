@@ -56,3 +56,5 @@ batch size: 48
 
 lr: 0.001
 
+# Paper
+-[The Korean Sign Language Dataset for Action Recognition](https://link.springer.com/content/pdf/10.1007%2F978-3-030-37731-1_43.pdf)
